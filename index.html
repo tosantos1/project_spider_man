@@ -6,13 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spider-man: Miles Morales </title>
     <link rel="stylesheet" href="/css/style.css">
+    <script src="svg-inject.min.js"></script>
 </head>
 <body>
     <!--== HEADER ==-->
     <header>
         <nav class="navbar">
             <div class="nav-menu">
-                <div class="logo"></div>
+                <div class="logo">
+                    <img src="svg/logo-spiderman.svg" onload="SVGInject(this)" />
+                </div>
                 <ul class="nav-list">
                     <li><a href="" class="nav-link">Home</a></li>
                     <li><a href="" class="nav-link">Story</a></li>
@@ -20,7 +23,12 @@
                     <li><a href="" class="nav-link">#ByTOS</a></li>
                 </ul>
             </div>
-            <div class="nav social"></div>
+            <div class="nav social">
+                <img src="svg/icon-facebook.svg" onload="SVGInject(this)"/>
+                <img src="svg/icon-instagram.svg" onload="SVGInject(this)"/>
+                <img src="svg/icon-youtube.svg" onload="SVGInject(this)"/>
+                <img src="svg/icon-twitter.svg" onload="SVGInject(this)"/>
+            </div>
         </nav>
     </header>
 
@@ -28,7 +36,7 @@
     <section class="container">
         <div class="container-item-1">
             <p>
-
+                <img src="img/spiderman-text.png" onload="SVGInject(this)" />
             </p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, dolore? At exercitationem eos adipisci. Alias facilis distinctio, saepe deserunt tempore, assumenda quas at labore quo aspernatur, ipsum laborum quia et?</p>
             <p>
@@ -36,10 +44,13 @@
                 <a href="" class="btn-secundary">watch the teaser</a>
             </p>
             <p>
-                
+                <img src="svg/ps.svg" onload="SVGInject(this)" />
+                <img src="svg/marvel.svg" onload="SVGInject(this)" />
             </p>
         </div>
-        <div class="container-item-2"></div>
+        <div class="container-item-2">
+            <img src="img/spider-man.png" onload="SVGInject(this)" />
+        </div>
     </section>
 </body>
 </html>
