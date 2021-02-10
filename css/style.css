@@ -380,8 +380,8 @@ header {
 
 .logo-spiderman {
   fill: transparent;
-  -webkit-animation: logo-spiderman 12s ease infinite alternate;
-          animation: logo-spiderman 12s ease infinite alternate;
+  -webkit-animation: logo-spiderman 12s ease-in-out infinite alternate;
+          animation: logo-spiderman 12s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes logo-spiderman {

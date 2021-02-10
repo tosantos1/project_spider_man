@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     tl.fromTo('.bg-loader', 1,
     {width: '100%'}, 
-    {width: '0%', delay: 4, ease: Expo.easeInOut})
+    {width: '0%', delay: 6, ease: Expo.easeInOut})
     
     .fromTo('.bg-video', 2,
     {width: '0%', opacity: 0}, 
