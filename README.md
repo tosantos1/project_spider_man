@@ -5,13 +5,9 @@
 
 <!-- ************************************* Baadges ********************************************* -->
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/FrontWeek-Spider-man-Project?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/project_spider_man?color=%2304D361">
 
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/FrontWeek-Spider-man-Project">
-
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/FrontWeek-Spider-man-Project">
-  </a>
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/tosantos1/project_spider_man">
 </p>
 
 <!-- ************************************* Título ********************************************* -->
@@ -50,7 +46,7 @@
 <h2>🖼️ Imagens do Projeto</h2>
 
 <div align="center" >
-  <img src="img/project.png" width="80000px"/>
+  <img src="img/COVER.png" width="80000px"/>
 </div>
 
 </br>
@@ -73,4 +69,4 @@ $ cd FrontWeek-Spider-man-Project
 * [Násser Yousef](https://www.instagram.com/nasser.yousefali/) - Semana FrontWeek
 
 ---
-⌨️ com ❤️ por [Bruno Eduardo](https://gist.github.com/brunoemferreira) 😊
+⌨️ com ❤️ por [Tiago Oliveira](https://www.instagram.com/xmineiro/) 😊
