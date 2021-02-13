@@ -67,6 +67,3 @@ $ cd FrontWeek-Spider-man-Project
 <h3 id="referencias"> ⚓ Referências</h3>
 
 * [Násser Yousef](https://www.instagram.com/nasser.yousefali/) - Semana FrontWeek
-
----
-⌨️ com ❤️ por [Tiago Oliveira](https://www.instagram.com/xmineiro/) 😊
