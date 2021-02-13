@@ -51,19 +51,6 @@
 
 </br>
 
-<h3> 🎲 Rodando o Projeto</h3>
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/brunoemferreira/FrontWeek-Spider-man-Project.git
-
-# Acesse a pasta do projeto
-$ cd FrontWeek-Spider-man-Project
-
-# execute o arquivo
-./index.html
-```
-
 <h3 id="referencias"> ⚓ Referências</h3>
 
 * [Násser Yousef](https://www.instagram.com/nasser.yousefali/) - Semana FrontWeek
